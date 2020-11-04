@@ -7,5 +7,4 @@ Discussion on lightweight model MobileNet: https://alles9fresser.blogspot.com/20
 
 More on learn2learn framework: https://github.com/learnables/learn2learn
 
-# NVIDIA autonomous driving datasets
-
+NVIDIA autonomous driving datasets: https://www.kaggle.com/sameerqayyum/nvidia-self-driving-car-training-set
