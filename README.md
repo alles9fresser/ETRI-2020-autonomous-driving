@@ -1,11 +1,9 @@
-# MobileNet-V1
+# ETRI autonomous driving
 
 
-Joint project with ETRI on autonomous driving few shot learning edge case detection task. 
-
-
-
-["MobileNet V1"] (https://arxiv.org/abs/1704.04861)
+Joint project with ETRI: Autonomous driving edge case detection task with federated few shot learning. 
 
 Discussion on lightweight model MobileNet : https://alles9fresser.blogspot.com/2020/08/mobilenet-v1.html
 
+
+# NVIDIA autonomous driving datasets
