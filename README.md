@@ -6,9 +6,18 @@ Joint project with ETRI: Autonomous driving edge case detection task with federa
 
 
 <div align="center">
-	<img src="/Samples/Samples.PNG" width="80%" height="80%"/>
+	<img src="/Samples/slide_2.PNG" width="80%" height="80%"/>
 </div>
 </a>
+
+
+
+
+<div align="center">
+	<img src="/Samples/diagram.PNG" width="80%" height="80%"/>
+</div>
+</a>
+
 
 
 
