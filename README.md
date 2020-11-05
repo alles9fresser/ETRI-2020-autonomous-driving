@@ -3,9 +3,9 @@
 
 Joint project with ETRI: Autonomous driving edge case detection task with federated few shot learning. 
 
-Discussion on lightweight model MobileNet: https://alles9fresser.blogspot.com/2020/08/mobilenet-v1.html
+Discussion on lightweight models MobileNet: https://alles9fresser.blogspot.com/2020/08/mobilenet-v1.html
 
-More on learn2learn framework: https://github.com/learnables/learn2learn
+MAML implementation with learn2learn framework: https://github.com/learnables/learn2learn
 
 NVIDIA autonomous driving datasets: https://www.kaggle.com/sameerqayyum/nvidia-self-driving-car-training-set
 
